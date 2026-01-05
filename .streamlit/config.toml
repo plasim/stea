@@ -1,0 +1,4 @@
+[server]
+fileWatcherType = "poll"
+folderWatchBlacklist = [".venv", ".git", "__pycache__"]
+
